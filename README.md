@@ -3,8 +3,6 @@
 
 🎓 Second-year college student | 💻 Aspiring Machine Learning & Data Science Engineer
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"/>
-
 I’m passionate about using **data and machine learning** to solve real-world problems. Currently strengthening my skills in **Python**, **Data Analysis**, and **ML fundamentals** through hands-on projects and continuous learning.
 
 ✨ *Open to internships & learning opportunities*
@@ -36,7 +34,7 @@ I’m passionate about using **data and machine learning** to solve real-world p
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 
 
- 🛠️ Tech Stack
+ ###🛠️ Tech Stack
 
 Languages and tools
 
