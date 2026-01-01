@@ -32,10 +32,12 @@ I’m passionate about using **data and machine learning** to solve real-world p
 * Improving problem-solving 
 
 
- 🛠️ Tech Stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-Languages and tools
 
+
+ 🛠️ Tech Stack
+
+Languages and tools
 
 * python
 * jupyter
