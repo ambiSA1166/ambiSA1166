@@ -27,7 +27,7 @@ I’m passionate about using **data and machine learning** to solve real-world p
 
 * Machine Learning mini-projects
 * Data analysis projects using real datasets
-* Improving problem-solving & clean ML pipelines
+* Improving problem-solving 
 
 
  🛠️ Tech Stack
