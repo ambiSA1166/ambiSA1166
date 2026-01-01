@@ -1,9 +1,9 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I'm Ambika Gupta <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"/>
-
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I'm Ambika Gupta
 
 
 🎓 Second-year college student | 💻 Aspiring Machine Learning & Data Science Engineer
 
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"/>
 
 I’m passionate about using **data and machine learning** to solve real-world problems. Currently strengthening my skills in **Python**, **Data Analysis**, and **ML fundamentals** through hands-on projects and continuous learning.
 
