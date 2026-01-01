@@ -7,7 +7,7 @@ I’m passionate about using **data and machine learning** to solve real-world p
 
 ✨ *Open to internships & learning opportunities*
 
- 🌱 Currently Learning
+ ### 🌱 Currently Learning
 
 * Machine Learning fundamentals (Supervised & Unsupervised)
 * Python for Data Science
@@ -17,14 +17,14 @@ I’m passionate about using **data and machine learning** to solve real-world p
 
 
 
- 💬 Ask Me About
+### 💬 Ask Me About
 
 * Python for Data Analysis
 * Machine Learning basics
 * Data cleaning & EDA
 * Student journey in Data Science & ML
 
- 🚀 What I’m Working On
+### 🚀 What I’m Working On
 
 * Machine Learning mini-projects
 * Data analysis projects using real datasets
@@ -48,7 +48,7 @@ Libraries
 * matplotlib
 * seaborn
 
- 🤝 Let’s Connect
+### 🤝 Let’s Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/ambika-gupta-55b9ba2bb
 * 📫 Reach me via GitHub
