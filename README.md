@@ -37,6 +37,8 @@ I’m passionate about using **data and machine learning** to solve real-world p
  🛠️ Tech Stack
 
 Languages and tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
 
 * python
 * jupyter
