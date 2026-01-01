@@ -33,14 +33,16 @@ I’m passionate about using **data and machine learning** to solve real-world p
  🛠️ Tech Stack
 
 Languages and tools
-python
-jupyter
+
+* python
+* jupyter
 
 Libraries
-numpy
-pandas
-matplotlib
-seaborn
+
+* numpy
+* pandas
+* matplotlib
+* seaborn
 
  🤝 Let’s Connect
 
