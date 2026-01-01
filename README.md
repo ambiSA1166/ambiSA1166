@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi 👋, I'm Ambika Gupta
 
-<!--
-**ambiSA1166/ambiSA1166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year college student | 💻 Aspiring Machine Learning & Data Science Engineer
 
-Here are some ideas to get you started:
+I’m passionate about using **data and machine learning** to solve real-world problems. Currently strengthening my skills in **Python**, **Data Analysis**, and **ML fundamentals** through hands-on projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Open to internships & learning opportunities*
+
+ 🌱 Currently Learning
+
+* Machine Learning fundamentals (Supervised & Unsupervised)
+* Python for Data Science
+* NumPy, Pandas & Matplotlib
+* Data Visualization & EDA
+* Basics of statistics for ML
+
+
+
+ 💬 Ask Me About
+
+* Python for Data Analysis
+* Machine Learning basics
+* Data cleaning & EDA
+* Student journey in Data Science & ML
+
+ 🚀 What I’m Working On
+
+* Machine Learning mini-projects
+* Data analysis projects using real datasets
+* Improving problem-solving & clean ML pipelines
+
+
+ 🛠️ Tech Stack
+
+Languages and tools
+python
+jupyter
+
+Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+ 🤝 Let’s Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/ambika-gupta-55b9ba2bb
+* 📫 Reach me via GitHub
+
+🌸 *Learning ML step by step — curious, consistent, and growing every day.*
+
+
