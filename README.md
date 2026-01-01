@@ -1,5 +1,5 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
- I'm Ambika Gupta
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I'm Ambika Gupta
+
 
 🎓 Second-year college student | 💻 Aspiring Machine Learning & Data Science Engineer
 
