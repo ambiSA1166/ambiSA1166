@@ -49,6 +49,6 @@ Libraries
 * 💼 LinkedIn: https://www.linkedin.com/in/ambika-gupta-55b9ba2bb
 * 📫 Reach me via GitHub
 
-🌸 *Learning ML step by step — curious, consistent, and growing every day.*
+🌸 *Learning ML step by step .. curious, consistent, and growing every day.*
 
 
