@@ -8,14 +8,10 @@ I’m passionate about using **data and machine learning** to solve real-world p
 ✨ *Open to internships & learning opportunities*
 
  ### 🌱 Currently Learning
-
-* Machine Learning fundamentals (Supervised & Unsupervised)
-* Python for Data Science
-* NumPy, Pandas & Matplotlib
-* Data Visualization & EDA
-* Basics of statistics for ML
-
-
+ 
+* DSA with python
+* NLP
+* Deep Learning
 
 ### 💬 Ask Me About
 
@@ -26,7 +22,7 @@ I’m passionate about using **data and machine learning** to solve real-world p
 
 ### 🚀 What I’m Working On
 
-* Machine Learning mini-projects
+* Machine Learning projects
 * Data analysis projects using real datasets
 * Improving problem-solving 
 
@@ -40,9 +36,15 @@ Languages and tools
 
 * python
 * jupyter
+* SQL
+* Fast API
+* Power BI
+* Mongo DB
+* Stats for ML
 
 Libraries
 
+* Scikit learn
 * numpy
 * pandas
 * matplotlib
