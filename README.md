@@ -16,7 +16,7 @@ I’m passionate about using **data and machine learning** to solve real-world p
 ### 💬 Ask Me About
 
 * Python for Data Analysis
-* Machine Learning basics
+* Machine Learning 
 * Data cleaning & EDA
 * Student journey in Data Science & ML
 
