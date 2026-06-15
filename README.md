@@ -3,7 +3,7 @@
 
  💻 Aspiring Machine Learning & Data Science Engineer
 
-I’m passionate about using **data and machine learning** to solve real-world problems. Currently strengthening my skills in **Python**, **Data Analysis**, and **ML fundamentals** through hands-on projects and continuous learning.
+I’m passionate about using **data and machine learning** to solve real-world problems. Currently strengthening my skills in **Python**, **Data Analysis**, and **ML** through hands-on projects and continuous learning.
 
 ✨ *Open to internships & learning opportunities*
 
