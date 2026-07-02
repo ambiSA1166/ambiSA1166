@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Machine Learning & Data Science Engineer<br><br>I’m passionate about using data and machine learning to solve real-world problems. Currently strengthening my skills in Python, Data Analysis, and ML through hands-on projects and continuous learning.<br><br>✨ Open to internships & learning opportunities<br>
+💻 Aspiring Machine Learning Engineer & Data Scientist <br><br>I’m passionate about using data and machine learning to solve real-world problems. Currently strengthening my skills in Python, Data Analysis, and ML through hands-on projects and continuous learning.<br><br>✨ Open to internships & learning opportunities<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ambika-gupta-55b9ba2bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/AmbikaaGupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ambikagupta1166@gmail.com) 
